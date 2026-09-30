@@ -1,0 +1,14 @@
+# Automation Practice
+
+Selenium test automation practice written in Python.
+
+## What's inside
+- 26 test cases for an e-commerce website (register, login, search, cart, checkout, reviews, etc.)
+
+## Tech
+- Python
+- Selenium WebDriver
+
+## How to run
+1. Install Selenium: `pip install selenium`
+2. Open any test case file and run it
